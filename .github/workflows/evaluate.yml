@@ -71,7 +71,6 @@ jobs:
           frontend-url: ${{ env.FRONTEND_URL }}
           team: ${{ github.event.pull_request.head.repo.owner.login || github.repository_owner }}
           launch-secret: ${{ env.LAUNCH_SECRET }}
-          leaderboard-url: http://42.queuetek.site
 
       - name: Show score summary
         if: always()
