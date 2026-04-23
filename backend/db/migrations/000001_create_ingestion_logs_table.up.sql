@@ -1,0 +1,6 @@
+CREATE TABLE ingestion_logs (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    source_url TEXT UNIQUE NOT NULL,
+    status TEXT NOT NULL CHECK (status IN ('PENDING', 'SUCCESS', 'FAILED')),
+    ingested_at DATETIME DEFAULT CURRENT_TIMESTAMP
+);

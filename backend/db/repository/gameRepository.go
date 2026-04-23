@@ -1,25 +1,30 @@
 package db
 
 import (
+	sqlc "backend/db/sqlc_generated"
+	"context"
 	"database/sql"
-	sqlc "echo/db/sqlc_generated"
 )
 
 type GameRepository interface {
-	// GetUserById(ctx, id) // Read
-	// SearchUsersByUsername(ctx, username) // Read - implement it using the LIKE keyword in the query.
+	UpsertGame(ctx context.Context, arg sqlc.UpsertGameParams) (sqlc.Game, error)
 }
 
-type PostgresGameRepository struct {
+type SQLiteGameRepository struct {
 	db      *sql.DB
 	queries *sqlc.Queries
 }
 
-func NewPostgresGameRepository(db *sql.DB) *PostgresGameRepository {
-	return &PostgresGameRepository{
+func NewSQLiteGameRepository(db *sql.DB) *SQLiteGameRepository {
+	return &SQLiteGameRepository{
 		db:      db,
 		queries: sqlc.New(db),
 	}
 }
 
-var _ GameRepository = (*PostgresGameRepository)(nil)
+var _ GameRepository = (*SQLiteGameRepository)(nil)
+
+// UpsertGame implementation wiring the interface to the sqlc generated code
+func (r *SQLiteGameRepository) UpsertGame(ctx context.Context, arg sqlc.UpsertGameParams) (sqlc.Game, error) {
+	return r.queries.UpsertGame(ctx, arg)
+}

@@ -1,6 +1,6 @@
 version: "2"
 sql:
-  - engine: "postgresql"
+  - engine: "sqlite"
     queries: "db/queries"
     schema: "db/migrations"
     gen:
@@ -8,8 +8,4 @@ sql:
         emit_json_tags: true
         package: "db"
         out: "db/sqlc_generated"
-        overrides:
-          - db_type: "timestamptz"
-            go_type:
-              import: "time"
-              type: "Time"
+        emit_interface: true

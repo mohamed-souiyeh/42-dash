@@ -12,8 +12,12 @@ import (
 	"time"
 
 	dashDB "backend/db"
+	db "backend/db/repository"
+
+	_ "github.com/mattn/go-sqlite3"
 
 	"github.com/charmbracelet/log"
+	"github.com/joho/godotenv"
 )
 
 // /data/provider-alpha.json,/data/provider-beta.json,/data/provider-gamma.json
@@ -24,30 +28,36 @@ const (
 )
 
 type App struct {
-	db     *sql.DB
-	Server *http.Server
+	db            *sql.DB
+	Server        *http.Server
+	ingestHandler *handlers.IngestHandler
 }
 
 func NewApp() *App {
-	// err := godotenv.Load()
-
-	//if err != nil {
-	//	log.Fatal("Error loading .env file, relying on environment variables", "error", err)
-	//}
+	err := godotenv.Load()
+	if err != nil {
+		log.Fatal("Error loading .env file, relying on environment variables", "error", err)
+	}
 
 	app := new(App)
 
-	app.serverSetup()
-
 	app.dbSetup()
+
+	app.serverSetup()
 
 	return app
 }
 
 func (a *App) serverSetup() {
+	a.ingestHandler = &handlers.IngestHandler{
+		IngestRepo: db.NewSQLiteIngestionRepository(a.db),
+		GameRepo:   db.NewSQLiteGameRepository(a.db),
+	}
+
 	mux := http.NewServeMux()
 
 	mux.HandleFunc("/healthz", handlers.HealthzHandler)
+	mux.HandleFunc("/ingest", a.ingestHandler.HandleTriggerIngest)
 
 	// --- 3. The Server Object (Configured Once) ---
 
@@ -66,10 +76,19 @@ func (a *App) serverStart() {
 	signal.Notify(stopChan, os.Interrupt, syscall.SIGTERM)
 
 	go func() {
-		log.Info("Server starting on port 8080...")
+		log.Info("Server starting on port 3000")
 		if err := a.Server.ListenAndServe(); err != nil && err != http.ErrServerClosed {
 			log.Fatalf("Server error: %v\n", err)
 		}
+	}()
+
+	go func() {
+		// This serves your local "mock_data" folder on a different port
+		mockMux := http.NewServeMux()
+		mockMux.Handle("/", http.FileServer(http.Dir("./data")))
+
+		// Listen on port 8081 so it doesn't clash with your main API
+		http.ListenAndServe(":4444", mockMux)
 	}()
 
 	<-stopChan
@@ -86,59 +105,42 @@ func (a *App) serverStart() {
 }
 
 func (a *App) dbSetup() {
-	dbHost := os.Getenv("DB_HOST")
-	dbPort := os.Getenv("DB_PORT")
-	dbUser := os.Getenv("DB_USER")
-	dbPassword := os.Getenv("DB_PASSWORD")
-	dbName := os.Getenv("DB_NAME")
-	dbSSLMode := os.Getenv("DB_SSLMODE")
-
-	if dbHost == "" || dbPort == "" || dbUser == "" || dbPassword == "" || dbName == "" {
-		log.Fatal("Database configuration environment variables are not fully set.")
-	}
-	if dbSSLMode == "" {
-		dbSSLMode = "disable"
-		log.Warn("DB_SSLMODE not set, defaulting to 'disable'. Ensure this is secure for production.")
+	// 1. Get the local file path (or default to app.db)
+	dbFilePath := os.Getenv("DB_FILE_PATH")
+	if dbFilePath == "" {
+		dbFilePath = "./app.db"
+		log.Warn("DB_FILE_PATH not set, defaulting to './app.db'")
 	}
 
-	dsn := fmt.Sprintf("host=%s port=%s user=%s password=%s dbname=%s sslmode=%s",
-		dbHost, dbPort, dbUser, dbPassword, dbName, dbSSLMode)
+	dsn := fmt.Sprintf("file:%s?_journal_mode=WAL&_busy_timeout=5000&_fk=1", dbFilePath)
 
-	log.Info("Connecting to PostgreSQL database...")
-	db, err := sql.Open("pgx", dsn)
+	log.Info("Connecting to SQLite database...")
+
+	database, err := sql.Open("sqlite3", dsn)
 	if err != nil {
-		log.Fatalf("Failed to open PostgreSQL database: %v", err)
+		log.Fatalf("Failed to open SQLite database: %v", err)
 	}
 
-	// Configure connection pool
-	db.SetMaxOpenConns(20)
-	db.SetMaxIdleConns(15)
-	db.SetConnMaxLifetime(30 * time.Minute)
-	db.SetConnMaxIdleTime(30 * time.Minute)
+	database.SetMaxOpenConns(50)
+	database.SetMaxIdleConns(15)
+	database.SetConnMaxLifetime(30 * time.Minute)
 
 	log.Info("Pinging database...")
 	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
 	defer cancel()
-	if err := db.PingContext(ctx); err != nil {
-		log.Fatalf("❌ Failed to ping PostgreSQL database: %v", err)
+	if err := database.PingContext(ctx); err != nil {
+		log.Fatalf("❌ Failed to ping SQLite database: %v", err)
 	}
-	log.Info("✅ PostgreSQL Database connection successful.")
+	log.Info("✅ SQLite Database connection successful.")
 
-	dashDB.RunMigration(db)
+	// Note: Ensure your migration scripts inside RunMigration are updated to SQLite dialect!
+	dashDB.RunMigration(database)
 
-	a.db = db
+	a.db = database
 }
 
 func main() {
 	app := NewApp()
 
-	http.HandleFunc("/healthz", healthzHandler)
-
-	port := ":8080"
-	fmt.Printf("Starting server on port %s...\n", port)
-
-	err := http.ListenAndServe(port, nil)
-	if err != nil {
-		log.Fatal("Server crashed: ", err)
-	}
+	app.serverStart()
 }
