@@ -7,7 +7,7 @@
     "returnToPlayer": 98.16,
     "variance": "low",
     "active": true,
-    "launchDate": "2019-08-24T00:00:00Z",
+    "launchDate": "2019-08-25T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00001-elk-studios.png",
     "features": []
   },
@@ -19,7 +19,7 @@
     "returnToPlayer": 97.91,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-10-28T00:00:00Z",
+    "launchDate": "2025-10-29T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00004-microgaming.png",
     "features": [
       "bonus-buy",
@@ -35,7 +35,7 @@
     "returnToPlayer": 92.38,
     "variance": "high",
     "active": true,
-    "launchDate": "2020-10-18T00:00:00Z",
+    "launchDate": "2020-10-19T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00007-red-tiger.png",
     "features": [
       "sports",
@@ -50,7 +50,7 @@
     "returnToPlayer": 97.6,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-07-14T00:00:00Z",
+    "launchDate": "2025-07-15T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00010-softswiss.png",
     "features": [
       "bonus-buy",
@@ -82,7 +82,7 @@
     "returnToPlayer": 93.93,
     "variance": "medium",
     "active": true,
-    "launchDate": "2021-08-23T00:00:00Z",
+    "launchDate": "2021-08-24T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00016-high-5-games.png",
     "features": [
       "adventure",
@@ -99,7 +99,7 @@
     "returnToPlayer": 90,
     "variance": "low",
     "active": true,
-    "launchDate": "2018-08-13T00:00:00Z",
+    "launchDate": "2018-08-14T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00019-playson.png",
     "features": [
       "pirates",
@@ -114,7 +114,7 @@
     "returnToPlayer": 99.42,
     "variance": "low",
     "active": true,
-    "launchDate": "2022-10-19T00:00:00Z",
+    "launchDate": "2022-10-20T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00022-playn-go.png",
     "features": []
   },
@@ -126,7 +126,7 @@
     "returnToPlayer": 93.87,
     "variance": "high",
     "active": true,
-    "launchDate": "2022-02-10T00:00:00Z",
+    "launchDate": "2022-02-11T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00025-aristocrat.png",
     "features": [
       "progressive",
@@ -157,7 +157,7 @@
     "returnToPlayer": 98.02,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-04-20T00:00:00Z",
+    "launchDate": "2022-04-21T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00031-1x2-network.png",
     "features": [
       "space",
@@ -173,7 +173,7 @@
     "returnToPlayer": 97.32,
     "variance": "low",
     "active": true,
-    "launchDate": "2022-01-19T00:00:00Z",
+    "launchDate": "2022-01-20T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00034-aristocrat.png",
     "features": [
       "pirates",
@@ -188,7 +188,7 @@
     "returnToPlayer": 96.61,
     "variance": "high",
     "active": true,
-    "launchDate": "2020-08-29T00:00:00Z",
+    "launchDate": "2020-08-30T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00037-1x2-network.png",
     "features": [
       "luxury",
@@ -205,7 +205,7 @@
     "returnToPlayer": 91.72,
     "variance": "high",
     "active": true,
-    "launchDate": "2020-01-11T00:00:00Z",
+    "launchDate": "2020-01-12T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00040-red-tiger.png",
     "features": []
   },
@@ -234,7 +234,7 @@
     "returnToPlayer": 96.66,
     "variance": "high",
     "active": true,
-    "launchDate": "2022-03-23T00:00:00Z",
+    "launchDate": "2022-03-24T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00046-genesis-gaming.png",
     "features": [
       "luxury",
@@ -250,7 +250,7 @@
     "returnToPlayer": 91.28,
     "variance": "high",
     "active": false,
-    "launchDate": "2025-11-21T00:00:00Z",
+    "launchDate": "2025-11-22T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00049-aristocrat.png",
     "features": [
       "bonus-buy",
@@ -266,7 +266,7 @@
     "returnToPlayer": 95.3,
     "variance": "low",
     "active": true,
-    "launchDate": "2019-08-13T00:00:00Z",
+    "launchDate": "2019-08-14T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00052-relax-gaming.png",
     "features": []
   },
@@ -278,7 +278,7 @@
     "returnToPlayer": 98.23,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-11-11T00:00:00Z",
+    "launchDate": "2022-11-12T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00055-aristocrat.png",
     "features": [
       "luxury",
@@ -295,7 +295,7 @@
     "returnToPlayer": 93.64,
     "variance": "high",
     "active": true,
-    "launchDate": "2021-03-31T00:00:00Z",
+    "launchDate": "2021-04-01T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00058-netent.png",
     "features": [
       "anime",
@@ -312,7 +312,7 @@
     "returnToPlayer": 97.9,
     "variance": "medium",
     "active": false,
-    "launchDate": "2020-04-02T00:00:00Z",
+    "launchDate": "2020-04-03T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00061-yggdrasil.png",
     "features": []
   },
@@ -338,7 +338,7 @@
     "returnToPlayer": 97.44,
     "variance": "low",
     "active": true,
-    "launchDate": "2023-05-21T00:00:00Z",
+    "launchDate": "2023-05-22T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00067-slingo-originals.png",
     "features": [
       "fruit",
@@ -353,7 +353,7 @@
     "returnToPlayer": 94.96,
     "variance": "high",
     "active": true,
-    "launchDate": "2019-08-31T00:00:00Z",
+    "launchDate": "2019-09-01T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00070-greentube.png",
     "features": []
   },
@@ -380,7 +380,7 @@
     "returnToPlayer": 97.63,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-10-22T00:00:00Z",
+    "launchDate": "2025-10-23T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00076-big-time-gaming.png",
     "features": []
   },
@@ -392,7 +392,7 @@
     "returnToPlayer": 96.99,
     "variance": "low",
     "active": true,
-    "launchDate": "2025-06-12T00:00:00Z",
+    "launchDate": "2025-06-13T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00079-slingo-originals.png",
     "features": []
   },
@@ -404,7 +404,7 @@
     "returnToPlayer": 91.81,
     "variance": "high",
     "active": false,
-    "launchDate": "2024-01-06T00:00:00Z",
+    "launchDate": "2024-01-07T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00082-gamomat.png",
     "features": [
       "space"
@@ -418,7 +418,7 @@
     "returnToPlayer": 94.98,
     "variance": "medium",
     "active": true,
-    "launchDate": "2023-03-30T00:00:00Z",
+    "launchDate": "2023-03-31T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00085-yggdrasil.png",
     "features": [
       "sports",
@@ -449,7 +449,7 @@
     "returnToPlayer": 98.2,
     "variance": "high",
     "active": true,
-    "launchDate": "2018-09-19T00:00:00Z",
+    "launchDate": "2018-09-20T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00091-betsoft.png",
     "features": [
       "cluster-pays"
@@ -463,7 +463,7 @@
     "returnToPlayer": 92.85,
     "variance": "high",
     "active": true,
-    "launchDate": "2026-01-07T00:00:00Z",
+    "launchDate": "2026-01-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00094-evolution.png",
     "features": [
       "megaways",
@@ -480,7 +480,7 @@
     "returnToPlayer": 96.75,
     "variance": "high",
     "active": true,
-    "launchDate": "2026-03-06T00:00:00Z",
+    "launchDate": "2026-03-07T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00097-quickspin.png",
     "features": [
       "pirates"
@@ -494,7 +494,7 @@
     "returnToPlayer": 98.6,
     "variance": "high",
     "active": true,
-    "launchDate": "2022-12-21T00:00:00Z",
+    "launchDate": "2022-12-22T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00100-skywind.png",
     "features": [
       "wild-west"
@@ -508,7 +508,7 @@
     "returnToPlayer": 97.2,
     "variance": "high",
     "active": true,
-    "launchDate": "2021-02-16T00:00:00Z",
+    "launchDate": "2021-02-17T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00103-ba-gaming.png",
     "features": []
   },
@@ -534,7 +534,7 @@
     "returnToPlayer": 91.31,
     "variance": "medium",
     "active": true,
-    "launchDate": "2024-06-25T00:00:00Z",
+    "launchDate": "2024-06-26T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00109-kaleidoscope.png",
     "features": [
       "bonus-buy",
@@ -549,7 +549,7 @@
     "returnToPlayer": 93.05,
     "variance": "low",
     "active": true,
-    "launchDate": "2026-01-25T00:00:00Z",
+    "launchDate": "2026-01-26T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00112-wazdan.png",
     "features": [
       "bonus-buy",
@@ -566,7 +566,7 @@
     "returnToPlayer": 93.66,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-10-03T00:00:00Z",
+    "launchDate": "2022-10-04T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00115-orbital-spin.png",
     "features": [
       "cluster-pays",
@@ -582,7 +582,7 @@
     "returnToPlayer": 96.24,
     "variance": "medium",
     "active": false,
-    "launchDate": "2021-06-07T00:00:00Z",
+    "launchDate": "2021-06-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00118-casino-technology.png",
     "features": [
       "pirates",
@@ -599,7 +599,7 @@
     "returnToPlayer": 92.47,
     "variance": "low",
     "active": true,
-    "launchDate": "2022-12-29T00:00:00Z",
+    "launchDate": "2022-12-30T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00121-spinomenal.png",
     "features": [
       "progressive",
@@ -615,7 +615,7 @@
     "returnToPlayer": 92.17,
     "variance": "high",
     "active": false,
-    "launchDate": "2019-12-11T00:00:00Z",
+    "launchDate": "2019-12-12T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00124-reelplay.png",
     "features": [
       "megaways",
@@ -631,7 +631,7 @@
     "returnToPlayer": 95.42,
     "variance": "medium",
     "active": true,
-    "launchDate": "2025-09-19T00:00:00Z",
+    "launchDate": "2025-09-20T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00127-genesis-gaming.png",
     "features": []
   },
@@ -655,7 +655,7 @@
     "returnToPlayer": 91.18,
     "variance": "low",
     "active": true,
-    "launchDate": "2019-05-27T00:00:00Z",
+    "launchDate": "2019-05-28T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00133-genesis-gaming.png",
     "features": [
       "cluster-pays",
@@ -701,7 +701,7 @@
     "returnToPlayer": 93.68,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-07-26T00:00:00Z",
+    "launchDate": "2025-07-27T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00142-wazdan.png",
     "features": [
       "space",
@@ -717,7 +717,7 @@
     "returnToPlayer": 97.66,
     "variance": "low",
     "active": true,
-    "launchDate": "2022-11-20T00:00:00Z",
+    "launchDate": "2022-11-21T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00145-high-5-games.png",
     "features": [
       "free-spins",
@@ -734,7 +734,7 @@
     "returnToPlayer": 93.79,
     "variance": "high",
     "active": true,
-    "launchDate": "2024-09-26T00:00:00Z",
+    "launchDate": "2024-09-27T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00148-red-tiger.png",
     "features": []
   },
@@ -746,7 +746,7 @@
     "returnToPlayer": 92.45,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-02-08T00:00:00Z",
+    "launchDate": "2025-02-09T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00151-slingo-originals.png",
     "features": [
       "space",
@@ -778,7 +778,7 @@
     "returnToPlayer": 94.55,
     "variance": "high",
     "active": true,
-    "launchDate": "2020-12-01T00:00:00Z",
+    "launchDate": "2020-12-02T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00157-microgaming.png",
     "features": [
       "anime",
@@ -795,7 +795,7 @@
     "returnToPlayer": 91.78,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-08-28T00:00:00Z",
+    "launchDate": "2022-08-29T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00160-1x2-network.png",
     "features": [
       "progressive",
@@ -810,7 +810,7 @@
     "returnToPlayer": 91.93,
     "variance": "low",
     "active": true,
-    "launchDate": "2025-05-11T00:00:00Z",
+    "launchDate": "2025-05-12T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00163-nolimit-city.png",
     "features": [
       "sports",
@@ -825,7 +825,7 @@
     "returnToPlayer": 97.53,
     "variance": "high",
     "active": true,
-    "launchDate": "2022-10-21T00:00:00Z",
+    "launchDate": "2022-10-22T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00166-betsoft.png",
     "features": [
       "fruit"
@@ -839,7 +839,7 @@
     "returnToPlayer": 90.2,
     "variance": "medium",
     "active": true,
-    "launchDate": "2023-02-01T00:00:00Z",
+    "launchDate": "2023-02-02T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00169-aurora-labs.png",
     "features": []
   },
@@ -851,7 +851,7 @@
     "returnToPlayer": 90.49,
     "variance": "high",
     "active": true,
-    "launchDate": "2026-02-22T00:00:00Z",
+    "launchDate": "2026-02-23T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00172-nolimit-city.png",
     "features": [
       "megaways",
@@ -883,7 +883,7 @@
     "returnToPlayer": 93.07,
     "variance": "low",
     "active": true,
-    "launchDate": "2019-03-20T00:00:00Z",
+    "launchDate": "2019-03-21T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00178-alea.png",
     "features": [
       "pirates",
@@ -915,7 +915,7 @@
     "returnToPlayer": 95.15,
     "variance": "low",
     "active": true,
-    "launchDate": "2024-07-14T00:00:00Z",
+    "launchDate": "2024-07-15T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00184-microgaming.png",
     "features": [
       "luxury",
@@ -932,7 +932,7 @@
     "returnToPlayer": 98.62,
     "variance": "medium",
     "active": false,
-    "launchDate": "2022-03-25T00:00:00Z",
+    "launchDate": "2022-03-26T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00187-nolimit-city.png",
     "features": [
       "dragons",
@@ -947,7 +947,7 @@
     "returnToPlayer": 94.5,
     "variance": "low",
     "active": false,
-    "launchDate": "2022-06-12T00:00:00Z",
+    "launchDate": "2022-06-13T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00190-skywind.png",
     "features": [
       "fruit"
@@ -961,7 +961,7 @@
     "returnToPlayer": 93.85,
     "variance": "high",
     "active": true,
-    "launchDate": "2021-12-17T00:00:00Z",
+    "launchDate": "2021-12-18T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00193-tom-horn-gaming.png",
     "features": [
       "progressive",
@@ -977,7 +977,7 @@
     "returnToPlayer": 96.33,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-04-07T00:00:00Z",
+    "launchDate": "2025-04-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00196-habanero.png",
     "features": [
       "mythology",
@@ -1008,7 +1008,7 @@
     "returnToPlayer": 97.41,
     "variance": "medium",
     "active": false,
-    "launchDate": "2021-10-02T00:00:00Z",
+    "launchDate": "2021-10-03T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00202-reelplay.png",
     "features": []
   },
@@ -1020,7 +1020,7 @@
     "returnToPlayer": 93.91,
     "variance": "high",
     "active": true,
-    "launchDate": "2021-05-02T00:00:00Z",
+    "launchDate": "2021-05-03T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00205-pariplay.png",
     "features": [
       "wild-west"
@@ -1034,7 +1034,7 @@
     "returnToPlayer": 92.88,
     "variance": "high",
     "active": true,
-    "launchDate": "2019-12-18T00:00:00Z",
+    "launchDate": "2019-12-19T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00208-igt.png",
     "features": [
       "luxury",
@@ -1061,7 +1061,7 @@
     "returnToPlayer": 93.66,
     "variance": "medium",
     "active": true,
-    "launchDate": "2019-02-09T00:00:00Z",
+    "launchDate": "2019-02-10T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00214-greentube.png",
     "features": []
   },
@@ -1073,7 +1073,7 @@
     "returnToPlayer": 94.5,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-08-03T00:00:00Z",
+    "launchDate": "2022-08-04T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00217-ba-gaming.png",
     "features": [
       "dragons",
@@ -1105,7 +1105,7 @@
     "returnToPlayer": 97.7,
     "variance": "high",
     "active": true,
-    "launchDate": "2019-06-24T00:00:00Z",
+    "launchDate": "2019-06-25T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00223-pragmatic-play.png",
     "features": [
       "classic",
@@ -1122,7 +1122,7 @@
     "returnToPlayer": 91.71,
     "variance": "low",
     "active": true,
-    "launchDate": "2022-07-29T00:00:00Z",
+    "launchDate": "2022-07-30T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00226-microgaming.png",
     "features": [
       "luxury",
@@ -1139,7 +1139,7 @@
     "returnToPlayer": 97.52,
     "variance": "medium",
     "active": false,
-    "launchDate": "2019-05-13T00:00:00Z",
+    "launchDate": "2019-05-14T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00229-habanero.png",
     "features": [
       "mythology",
@@ -1166,7 +1166,7 @@
     "returnToPlayer": 97.48,
     "variance": "medium",
     "active": true,
-    "launchDate": "2018-10-27T00:00:00Z",
+    "launchDate": "2018-10-28T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00235-thunderkick.png",
     "features": [
       "classic",
@@ -1182,7 +1182,7 @@
     "returnToPlayer": 99.16,
     "variance": "low",
     "active": false,
-    "launchDate": "2023-07-30T00:00:00Z",
+    "launchDate": "2023-07-31T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00238-evolution.png",
     "features": [
       "fruit"
@@ -1196,7 +1196,7 @@
     "returnToPlayer": 93.62,
     "variance": "medium",
     "active": true,
-    "launchDate": "2018-07-31T00:00:00Z",
+    "launchDate": "2018-08-01T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00241-red-tiger.png",
     "features": [
       "luxury",
@@ -1212,7 +1212,7 @@
     "returnToPlayer": 92.51,
     "variance": "medium",
     "active": true,
-    "launchDate": "2026-04-19T00:00:00Z",
+    "launchDate": "2026-04-20T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00244-mascot-gaming.png",
     "features": [
       "horror"
@@ -1226,7 +1226,7 @@
     "returnToPlayer": 94.11,
     "variance": "low",
     "active": true,
-    "launchDate": "2023-09-13T00:00:00Z",
+    "launchDate": "2023-09-14T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00247-quickspin.png",
     "features": [
       "fruit",
@@ -1241,7 +1241,7 @@
     "returnToPlayer": 95.21,
     "variance": "medium",
     "active": true,
-    "launchDate": "2023-09-17T00:00:00Z",
+    "launchDate": "2023-09-18T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00250-alea.png",
     "features": [
       "pirates",
@@ -1256,7 +1256,7 @@
     "returnToPlayer": 97.74,
     "variance": "high",
     "active": true,
-    "launchDate": "2021-03-18T00:00:00Z",
+    "launchDate": "2021-03-19T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00253-red-tiger.png",
     "features": [
       "free-spins",
@@ -1271,7 +1271,7 @@
     "returnToPlayer": 90.86,
     "variance": "medium",
     "active": true,
-    "launchDate": "2021-03-06T00:00:00Z",
+    "launchDate": "2021-03-07T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00256-relax-gaming.png",
     "features": [
       "mythology",
@@ -1286,7 +1286,7 @@
     "returnToPlayer": 93.08,
     "variance": "low",
     "active": false,
-    "launchDate": "2024-03-06T00:00:00Z",
+    "launchDate": "2024-03-07T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00259-nolimit-city.png",
     "features": [
       "progressive",
@@ -1302,7 +1302,7 @@
     "returnToPlayer": 94.56,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-01-04T00:00:00Z",
+    "launchDate": "2022-01-05T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00262-high-5-games.png",
     "features": [
       "adventure",
@@ -1317,7 +1317,7 @@
     "returnToPlayer": 95.43,
     "variance": "low",
     "active": true,
-    "launchDate": "2025-09-28T00:00:00Z",
+    "launchDate": "2025-09-29T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00265-wazdan.png",
     "features": []
   },
@@ -1329,7 +1329,7 @@
     "returnToPlayer": 98.31,
     "variance": "high",
     "active": true,
-    "launchDate": "2023-01-23T00:00:00Z",
+    "launchDate": "2023-01-24T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00268-softswiss.png",
     "features": [
       "mythology",
@@ -1344,7 +1344,7 @@
     "returnToPlayer": 93.78,
     "variance": "low",
     "active": true,
-    "launchDate": "2019-06-11T00:00:00Z",
+    "launchDate": "2019-06-12T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00271-egt.png",
     "features": [
       "progressive"
@@ -1358,7 +1358,7 @@
     "returnToPlayer": 97.4,
     "variance": "medium",
     "active": true,
-    "launchDate": "2020-06-07T00:00:00Z",
+    "launchDate": "2020-06-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00274-igt.png",
     "features": [
       "mythology",
@@ -1374,7 +1374,7 @@
     "returnToPlayer": 93.62,
     "variance": "high",
     "active": false,
-    "launchDate": "2024-07-02T00:00:00Z",
+    "launchDate": "2024-07-03T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00277-evolution.png",
     "features": [
       "bonus-buy",
@@ -1389,7 +1389,7 @@
     "returnToPlayer": 93.18,
     "variance": "low",
     "active": true,
-    "launchDate": "2025-09-16T00:00:00Z",
+    "launchDate": "2025-09-17T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00280-endorphina.png",
     "features": []
   },
@@ -1401,7 +1401,7 @@
     "returnToPlayer": 95.07,
     "variance": "medium",
     "active": true,
-    "launchDate": "2019-04-12T00:00:00Z",
+    "launchDate": "2019-04-13T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00283-aurora-labs.png",
     "features": []
   },
@@ -1425,7 +1425,7 @@
     "returnToPlayer": 94.54,
     "variance": "low",
     "active": true,
-    "launchDate": "2021-07-04T00:00:00Z",
+    "launchDate": "2021-07-05T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00289-aurora-labs.png",
     "features": [
       "pirates"
@@ -1439,7 +1439,7 @@
     "returnToPlayer": 93.61,
     "variance": "low",
     "active": false,
-    "launchDate": "2020-05-23T00:00:00Z",
+    "launchDate": "2020-05-24T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00292-nolimit-city.png",
     "features": []
   },
@@ -1451,7 +1451,7 @@
     "returnToPlayer": 91.73,
     "variance": "low",
     "active": true,
-    "launchDate": "2026-04-09T00:00:00Z",
+    "launchDate": "2026-04-10T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00295-nolimit-city.png",
     "features": [
       "cluster-pays",
@@ -1468,7 +1468,7 @@
     "returnToPlayer": 89.56,
     "variance": "medium",
     "active": true,
-    "launchDate": "2023-12-17T00:00:00Z",
+    "launchDate": "2023-12-18T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00298-playtech.png",
     "features": [
       "luxury",
@@ -1483,7 +1483,7 @@
     "returnToPlayer": 92.86,
     "variance": "low",
     "active": true,
-    "launchDate": "2018-04-22T00:00:00Z",
+    "launchDate": "2018-04-23T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00301-orbital-spin.png",
     "features": [
       "bonus-buy",
@@ -1531,7 +1531,7 @@
     "returnToPlayer": 97.88,
     "variance": "high",
     "active": true,
-    "launchDate": "2018-06-14T00:00:00Z",
+    "launchDate": "2018-06-15T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00310-ba-gaming.png",
     "features": [
       "wild-west"
@@ -1545,7 +1545,7 @@
     "returnToPlayer": 98.49,
     "variance": "medium",
     "active": true,
-    "launchDate": "2025-02-25T00:00:00Z",
+    "launchDate": "2025-02-26T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00313-booming-games.png",
     "features": [
       "luxury",
@@ -1562,7 +1562,7 @@
     "returnToPlayer": 93.9,
     "variance": "medium",
     "active": true,
-    "launchDate": "2019-07-08T00:00:00Z",
+    "launchDate": "2019-07-09T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00316-hacksaw-gaming.png",
     "features": [
       "pirates",
@@ -1579,7 +1579,7 @@
     "returnToPlayer": 98.36,
     "variance": "high",
     "active": true,
-    "launchDate": "2026-01-17T00:00:00Z",
+    "launchDate": "2026-01-18T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00319-playtech.png",
     "features": [
       "luxury"
@@ -1593,7 +1593,7 @@
     "returnToPlayer": 94.12,
     "variance": "high",
     "active": true,
-    "launchDate": "2019-10-02T00:00:00Z",
+    "launchDate": "2019-10-03T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00322-greentube.png",
     "features": []
   },
@@ -1605,7 +1605,7 @@
     "returnToPlayer": 93.87,
     "variance": "low",
     "active": true,
-    "launchDate": "2020-04-23T00:00:00Z",
+    "launchDate": "2020-04-24T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00325-reelplay.png",
     "features": [
       "bonus-buy",
@@ -1621,7 +1621,7 @@
     "returnToPlayer": 93.48,
     "variance": "medium",
     "active": true,
-    "launchDate": "2018-09-20T00:00:00Z",
+    "launchDate": "2018-09-21T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00328-egt.png",
     "features": [
       "anime",
@@ -1638,7 +1638,7 @@
     "returnToPlayer": 93.22,
     "variance": "low",
     "active": true,
-    "launchDate": "2024-05-03T00:00:00Z",
+    "launchDate": "2024-05-04T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00331-1x2-network.png",
     "features": [
       "adventure"
@@ -1652,7 +1652,7 @@
     "returnToPlayer": 98.78,
     "variance": "low",
     "active": false,
-    "launchDate": "2022-07-08T00:00:00Z",
+    "launchDate": "2022-07-09T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00334-wazdan.png",
     "features": [
       "progressive",
@@ -1696,7 +1696,7 @@
     "returnToPlayer": 92.05,
     "variance": "high",
     "active": true,
-    "launchDate": "2020-12-18T00:00:00Z",
+    "launchDate": "2020-12-19T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00343-endorphina.png",
     "features": []
   },
@@ -1708,7 +1708,7 @@
     "returnToPlayer": 97.94,
     "variance": "low",
     "active": false,
-    "launchDate": "2023-04-22T00:00:00Z",
+    "launchDate": "2023-04-23T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00346-isoftbet.png",
     "features": [
       "anime"
@@ -1722,7 +1722,7 @@
     "returnToPlayer": 94.04,
     "variance": "medium",
     "active": true,
-    "launchDate": "2020-01-27T00:00:00Z",
+    "launchDate": "2020-01-28T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00349-yggdrasil.png",
     "features": [
       "cluster-pays",
@@ -1739,7 +1739,7 @@
     "returnToPlayer": 98.42,
     "variance": "medium",
     "active": true,
-    "launchDate": "2019-05-18T00:00:00Z",
+    "launchDate": "2019-05-19T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00352-booming-games.png",
     "features": [
       "space"
@@ -1753,7 +1753,7 @@
     "returnToPlayer": 91.79,
     "variance": "medium",
     "active": false,
-    "launchDate": "2021-12-22T00:00:00Z",
+    "launchDate": "2021-12-23T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00355-playtech.png",
     "features": [
       "sports",
@@ -1769,7 +1769,7 @@
     "returnToPlayer": 96.83,
     "variance": "medium",
     "active": true,
-    "launchDate": "2020-09-01T00:00:00Z",
+    "launchDate": "2020-09-02T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00358-spinomenal.png",
     "features": []
   },
@@ -1781,7 +1781,7 @@
     "returnToPlayer": 97.34,
     "variance": "low",
     "active": true,
-    "launchDate": "2019-08-21T00:00:00Z",
+    "launchDate": "2019-08-22T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00361-habanero.png",
     "features": [
       "bonus-buy",
@@ -1797,7 +1797,7 @@
     "returnToPlayer": 94.77,
     "variance": "high",
     "active": true,
-    "launchDate": "2026-02-09T00:00:00Z",
+    "launchDate": "2026-02-10T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00364-reelplay.png",
     "features": [
       "anime",
@@ -1812,7 +1812,7 @@
     "returnToPlayer": 94.71,
     "variance": "low",
     "active": true,
-    "launchDate": "2025-11-15T00:00:00Z",
+    "launchDate": "2025-11-16T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00367-hacksaw-gaming.png",
     "features": [
       "fruit",
@@ -1829,7 +1829,7 @@
     "returnToPlayer": 96.06,
     "variance": "high",
     "active": true,
-    "launchDate": "2019-04-21T00:00:00Z",
+    "launchDate": "2019-04-22T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00370-slingo-originals.png",
     "features": []
   },
@@ -1841,7 +1841,7 @@
     "returnToPlayer": 94.47,
     "variance": "high",
     "active": true,
-    "launchDate": "2020-03-21T00:00:00Z",
+    "launchDate": "2020-03-22T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00373-skywind.png",
     "features": [
       "dragons",
@@ -1857,7 +1857,7 @@
     "returnToPlayer": 93.7,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-06-12T00:00:00Z",
+    "launchDate": "2025-06-13T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00376-tom-horn-gaming.png",
     "features": [
       "cluster-pays",
@@ -1873,7 +1873,7 @@
     "returnToPlayer": 94.82,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-03-20T00:00:00Z",
+    "launchDate": "2025-03-21T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00379-mascot-gaming.png",
     "features": [
       "space"
@@ -1887,7 +1887,7 @@
     "returnToPlayer": 90.36,
     "variance": "low",
     "active": true,
-    "launchDate": "2022-10-19T00:00:00Z",
+    "launchDate": "2022-10-20T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00382-egt.png",
     "features": [
       "classic",
@@ -1902,7 +1902,7 @@
     "returnToPlayer": 97.29,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-11-24T00:00:00Z",
+    "launchDate": "2025-11-25T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00385-isoftbet.png",
     "features": []
   },
@@ -1914,7 +1914,7 @@
     "returnToPlayer": 98.41,
     "variance": "medium",
     "active": false,
-    "launchDate": "2021-03-10T00:00:00Z",
+    "launchDate": "2021-03-11T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00388-egt.png",
     "features": [
       "adventure",
@@ -1931,7 +1931,7 @@
     "returnToPlayer": 97.22,
     "variance": "low",
     "active": false,
-    "launchDate": "2023-01-02T00:00:00Z",
+    "launchDate": "2023-01-03T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00391-endorphina.png",
     "features": [
       "anime",
@@ -1959,7 +1959,7 @@
     "returnToPlayer": 93.42,
     "variance": "high",
     "active": true,
-    "launchDate": "2020-03-28T00:00:00Z",
+    "launchDate": "2020-03-29T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00397-pariplay.png",
     "features": [
       "fruit",
@@ -1989,7 +1989,7 @@
     "returnToPlayer": 90.55,
     "variance": "high",
     "active": true,
-    "launchDate": "2021-01-17T00:00:00Z",
+    "launchDate": "2021-01-18T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00403-igt.png",
     "features": [
       "megaways"
@@ -2003,7 +2003,7 @@
     "returnToPlayer": 93.07,
     "variance": "medium",
     "active": true,
-    "launchDate": "2024-09-18T00:00:00Z",
+    "launchDate": "2024-09-19T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00406-betsoft.png",
     "features": []
   },
@@ -2032,7 +2032,7 @@
     "returnToPlayer": 95.34,
     "variance": "medium",
     "active": true,
-    "launchDate": "2018-07-04T00:00:00Z",
+    "launchDate": "2018-07-05T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00412-playn-go.png",
     "features": [
       "megaways",
@@ -2048,7 +2048,7 @@
     "returnToPlayer": 93.17,
     "variance": "high",
     "active": true,
-    "launchDate": "2018-08-07T00:00:00Z",
+    "launchDate": "2018-08-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00415-netent.png",
     "features": [
       "anime",
@@ -2065,7 +2065,7 @@
     "returnToPlayer": 97.15,
     "variance": "low",
     "active": true,
-    "launchDate": "2020-05-19T00:00:00Z",
+    "launchDate": "2020-05-20T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00418-playson.png",
     "features": [
       "bonus-buy",
@@ -2081,7 +2081,7 @@
     "returnToPlayer": 96.16,
     "variance": "high",
     "active": true,
-    "launchDate": "2019-06-18T00:00:00Z",
+    "launchDate": "2019-06-19T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00421-push-gaming.png",
     "features": [
       "wild-west",
@@ -2096,7 +2096,7 @@
     "returnToPlayer": 90.34,
     "variance": "medium",
     "active": true,
-    "launchDate": "2020-03-17T00:00:00Z",
+    "launchDate": "2020-03-18T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00424-kaleidoscope.png",
     "features": []
   },
@@ -2124,7 +2124,7 @@
     "returnToPlayer": 95.86,
     "variance": "medium",
     "active": true,
-    "launchDate": "2024-01-14T00:00:00Z",
+    "launchDate": "2024-01-15T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00430-push-gaming.png",
     "features": [
       "classic",
@@ -2140,7 +2140,7 @@
     "returnToPlayer": 89.57,
     "variance": "high",
     "active": true,
-    "launchDate": "2022-01-26T00:00:00Z",
+    "launchDate": "2022-01-27T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00433-nolimit-city.png",
     "features": []
   },
@@ -2152,7 +2152,7 @@
     "returnToPlayer": 98.92,
     "variance": "medium",
     "active": false,
-    "launchDate": "2022-06-10T00:00:00Z",
+    "launchDate": "2022-06-11T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00436-wazdan.png",
     "features": [
       "horror"
@@ -2166,7 +2166,7 @@
     "returnToPlayer": 98.27,
     "variance": "medium",
     "active": true,
-    "launchDate": "2025-06-22T00:00:00Z",
+    "launchDate": "2025-06-23T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00439-igt.png",
     "features": [
       "classic",
@@ -2194,7 +2194,7 @@
     "returnToPlayer": 94.39,
     "variance": "medium",
     "active": true,
-    "launchDate": "2024-10-04T00:00:00Z",
+    "launchDate": "2024-10-05T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00445-playn-go.png",
     "features": []
   },
@@ -2206,7 +2206,7 @@
     "returnToPlayer": 93.67,
     "variance": "low",
     "active": true,
-    "launchDate": "2022-09-28T00:00:00Z",
+    "launchDate": "2022-09-29T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00448-nolimit-city.png",
     "features": []
   },
@@ -2218,7 +2218,7 @@
     "returnToPlayer": 90.59,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-08-19T00:00:00Z",
+    "launchDate": "2025-08-20T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00451-endorphina.png",
     "features": [
       "classic"
@@ -2232,7 +2232,7 @@
     "returnToPlayer": 94.85,
     "variance": "high",
     "active": true,
-    "launchDate": "2021-02-27T00:00:00Z",
+    "launchDate": "2021-02-28T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00454-high-5-games.png",
     "features": [
       "free-spins",
@@ -2248,7 +2248,7 @@
     "returnToPlayer": 92.74,
     "variance": "medium",
     "active": true,
-    "launchDate": "2020-08-26T00:00:00Z",
+    "launchDate": "2020-08-27T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00457-big-time-gaming.png",
     "features": [
       "bonus-buy",
@@ -2264,7 +2264,7 @@
     "returnToPlayer": 93.51,
     "variance": "medium",
     "active": true,
-    "launchDate": "2019-08-03T00:00:00Z",
+    "launchDate": "2019-08-04T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00460-1x2-network.png",
     "features": [
       "adventure",
@@ -2280,7 +2280,7 @@
     "returnToPlayer": 95.34,
     "variance": "medium",
     "active": true,
-    "launchDate": "2025-12-16T00:00:00Z",
+    "launchDate": "2025-12-17T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00463-mascot-gaming.png",
     "features": []
   },
@@ -2292,7 +2292,7 @@
     "returnToPlayer": 97.19,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-04-23T00:00:00Z",
+    "launchDate": "2022-04-24T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00466-spinomenal.png",
     "features": [
       "fruit",
@@ -2309,7 +2309,7 @@
     "returnToPlayer": 92.06,
     "variance": "low",
     "active": true,
-    "launchDate": "2023-08-08T00:00:00Z",
+    "launchDate": "2023-08-09T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00469-lightning-box.png",
     "features": [
       "cluster-pays"
@@ -2323,7 +2323,7 @@
     "returnToPlayer": 95.61,
     "variance": "medium",
     "active": true,
-    "launchDate": "2019-08-28T00:00:00Z",
+    "launchDate": "2019-08-29T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00472-habanero.png",
     "features": [
       "progressive",
@@ -2338,7 +2338,7 @@
     "returnToPlayer": 95.44,
     "variance": "high",
     "active": true,
-    "launchDate": "2022-05-07T00:00:00Z",
+    "launchDate": "2022-05-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00475-orbital-spin.png",
     "features": [
       "megaways",
@@ -2354,7 +2354,7 @@
     "returnToPlayer": 96.02,
     "variance": "medium",
     "active": true,
-    "launchDate": "2019-07-05T00:00:00Z",
+    "launchDate": "2019-07-06T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00478-orbital-spin.png",
     "features": [
       "horror",
@@ -2371,7 +2371,7 @@
     "returnToPlayer": 94.04,
     "variance": "medium",
     "active": true,
-    "launchDate": "2021-04-07T00:00:00Z",
+    "launchDate": "2021-04-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00481-reflex-gaming.png",
     "features": [
       "adventure"
@@ -2399,7 +2399,7 @@
     "returnToPlayer": 93.67,
     "variance": "medium",
     "active": true,
-    "launchDate": "2024-01-07T00:00:00Z",
+    "launchDate": "2024-01-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00487-egt.png",
     "features": [
       "cluster-pays",
@@ -2415,7 +2415,7 @@
     "returnToPlayer": 90.58,
     "variance": "low",
     "active": true,
-    "launchDate": "2019-06-27T00:00:00Z",
+    "launchDate": "2019-06-28T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00490-wazdan.png",
     "features": []
   },
@@ -2427,7 +2427,7 @@
     "returnToPlayer": 95.18,
     "variance": "low",
     "active": true,
-    "launchDate": "2023-08-04T00:00:00Z",
+    "launchDate": "2023-08-05T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00493-high-5-games.png",
     "features": [
       "sports",
@@ -2455,7 +2455,7 @@
     "returnToPlayer": 95.27,
     "variance": "low",
     "active": true,
-    "launchDate": "2020-12-23T00:00:00Z",
+    "launchDate": "2020-12-24T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00499-reelplay.png",
     "features": [
       "horror",
@@ -2471,7 +2471,7 @@
     "returnToPlayer": 98.74,
     "variance": "medium",
     "active": true,
-    "launchDate": "2023-12-28T00:00:00Z",
+    "launchDate": "2023-12-29T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00502-push-gaming.png",
     "features": [
       "dragons",
@@ -2486,7 +2486,7 @@
     "returnToPlayer": 96,
     "variance": "high",
     "active": true,
-    "launchDate": "2020-03-13T00:00:00Z",
+    "launchDate": "2020-03-14T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00505-nolimit-city.png",
     "features": [
       "megaways",
@@ -2501,7 +2501,7 @@
     "returnToPlayer": 98.56,
     "variance": "low",
     "active": true,
-    "launchDate": "2023-06-06T00:00:00Z",
+    "launchDate": "2023-06-07T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00508-aristocrat.png",
     "features": [
       "megaways",
@@ -2517,7 +2517,7 @@
     "returnToPlayer": 93.84,
     "variance": "high",
     "active": true,
-    "launchDate": "2023-05-16T00:00:00Z",
+    "launchDate": "2023-05-17T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00511-casino-technology.png",
     "features": [
       "fruit",
@@ -2533,7 +2533,7 @@
     "returnToPlayer": 95.46,
     "variance": "medium",
     "active": true,
-    "launchDate": "2021-09-20T00:00:00Z",
+    "launchDate": "2021-09-21T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00514-pariplay.png",
     "features": [
       "horror",
@@ -2549,7 +2549,7 @@
     "returnToPlayer": 92.43,
     "variance": "medium",
     "active": true,
-    "launchDate": "2023-11-05T00:00:00Z",
+    "launchDate": "2023-11-06T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00517-slingo-originals.png",
     "features": [
       "mythology"
@@ -2593,7 +2593,7 @@
     "returnToPlayer": 96.96,
     "variance": "low",
     "active": false,
-    "launchDate": "2026-03-03T00:00:00Z",
+    "launchDate": "2026-03-04T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00526-lightning-box.png",
     "features": [
       "progressive",
@@ -2608,7 +2608,7 @@
     "returnToPlayer": 98.2,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-07-04T00:00:00Z",
+    "launchDate": "2025-07-05T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00529-mascot-gaming.png",
     "features": [
       "space"
@@ -2622,7 +2622,7 @@
     "returnToPlayer": 93.25,
     "variance": "medium",
     "active": true,
-    "launchDate": "2018-06-10T00:00:00Z",
+    "launchDate": "2018-06-11T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00532-playson.png",
     "features": []
   },
@@ -2634,7 +2634,7 @@
     "returnToPlayer": 93.65,
     "variance": "high",
     "active": true,
-    "launchDate": "2024-09-09T00:00:00Z",
+    "launchDate": "2024-09-10T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00535-nolimit-city.png",
     "features": [
       "adventure",
@@ -2650,7 +2650,7 @@
     "returnToPlayer": 92.49,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-02-06T00:00:00Z",
+    "launchDate": "2022-02-07T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00538-softswiss.png",
     "features": [
       "mythology",
@@ -2665,7 +2665,7 @@
     "returnToPlayer": 92.15,
     "variance": "low",
     "active": true,
-    "launchDate": "2021-03-24T00:00:00Z",
+    "launchDate": "2021-03-25T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00541-yggdrasil.png",
     "features": []
   },
@@ -2677,7 +2677,7 @@
     "returnToPlayer": 97.88,
     "variance": "high",
     "active": false,
-    "launchDate": "2026-02-22T00:00:00Z",
+    "launchDate": "2026-02-23T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00544-netent.png",
     "features": [
       "free-spins",
@@ -2693,7 +2693,7 @@
     "returnToPlayer": 98.17,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-11-23T00:00:00Z",
+    "launchDate": "2025-11-24T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00547-reelplay.png",
     "features": []
   },
@@ -2705,7 +2705,7 @@
     "returnToPlayer": 95.76,
     "variance": "high",
     "active": true,
-    "launchDate": "2021-04-11T00:00:00Z",
+    "launchDate": "2021-04-12T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00550-casino-technology.png",
     "features": [
       "bonus-buy",
@@ -2722,7 +2722,7 @@
     "returnToPlayer": 94.48,
     "variance": "low",
     "active": true,
-    "launchDate": "2026-01-09T00:00:00Z",
+    "launchDate": "2026-01-10T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00553-endorphina.png",
     "features": [
       "fruit",
@@ -2738,7 +2738,7 @@
     "returnToPlayer": 94.93,
     "variance": "high",
     "active": false,
-    "launchDate": "2025-02-23T00:00:00Z",
+    "launchDate": "2025-02-24T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00556-greentube.png",
     "features": [
       "sports"
@@ -2752,7 +2752,7 @@
     "returnToPlayer": 96.75,
     "variance": "medium",
     "active": true,
-    "launchDate": "2024-03-13T00:00:00Z",
+    "launchDate": "2024-03-14T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00559-genesis-gaming.png",
     "features": [
       "sports",
@@ -2769,7 +2769,7 @@
     "returnToPlayer": 97.59,
     "variance": "medium",
     "active": true,
-    "launchDate": "2019-10-24T00:00:00Z",
+    "launchDate": "2019-10-25T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00562-merkur.png",
     "features": []
   },
@@ -2781,7 +2781,7 @@
     "returnToPlayer": 96.89,
     "variance": "medium",
     "active": true,
-    "launchDate": "2024-02-22T00:00:00Z",
+    "launchDate": "2024-02-23T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00565-nolimit-city.png",
     "features": [
       "sports",
@@ -2796,7 +2796,7 @@
     "returnToPlayer": 93.58,
     "variance": "medium",
     "active": false,
-    "launchDate": "2025-07-09T00:00:00Z",
+    "launchDate": "2025-07-10T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00568-aurora-labs.png",
     "features": []
   },
@@ -2808,7 +2808,7 @@
     "returnToPlayer": 95.34,
     "variance": "medium",
     "active": true,
-    "launchDate": "2018-12-03T00:00:00Z",
+    "launchDate": "2018-12-04T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00571-relax-gaming.png",
     "features": [
       "mythology",
@@ -2824,7 +2824,7 @@
     "returnToPlayer": 93.12,
     "variance": "medium",
     "active": true,
-    "launchDate": "2021-04-13T00:00:00Z",
+    "launchDate": "2021-04-14T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00574-1x2-network.png",
     "features": [
       "bonus-buy",
@@ -2855,7 +2855,7 @@
     "returnToPlayer": 96.79,
     "variance": "low",
     "active": true,
-    "launchDate": "2022-06-13T00:00:00Z",
+    "launchDate": "2022-06-14T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00580-lightning-box.png",
     "features": [
       "cluster-pays",
@@ -2870,7 +2870,7 @@
     "returnToPlayer": 92.15,
     "variance": "medium",
     "active": true,
-    "launchDate": "2024-09-29T00:00:00Z",
+    "launchDate": "2024-09-30T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00583-push-gaming.png",
     "features": [
       "classic"
@@ -2884,7 +2884,7 @@
     "returnToPlayer": 90.18,
     "variance": "medium",
     "active": true,
-    "launchDate": "2021-11-12T00:00:00Z",
+    "launchDate": "2021-11-13T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00586-lightning-box.png",
     "features": [
       "wild-west"
@@ -2898,7 +2898,7 @@
     "returnToPlayer": 94.97,
     "variance": "medium",
     "active": true,
-    "launchDate": "2025-01-08T00:00:00Z",
+    "launchDate": "2025-01-09T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00589-red-tiger.png",
     "features": [
       "sports",
@@ -2913,7 +2913,7 @@
     "returnToPlayer": 96.29,
     "variance": "low",
     "active": false,
-    "launchDate": "2021-07-06T00:00:00Z",
+    "launchDate": "2021-07-07T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00592-reflex-gaming.png",
     "features": []
   },
@@ -2925,7 +2925,7 @@
     "returnToPlayer": 98.51,
     "variance": "high",
     "active": false,
-    "launchDate": "2020-11-01T00:00:00Z",
+    "launchDate": "2020-11-02T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00595-quickspin.png",
     "features": []
   },
@@ -2937,7 +2937,7 @@
     "returnToPlayer": 94.44,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-08-28T00:00:00Z",
+    "launchDate": "2022-08-29T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00598-evolution.png",
     "features": []
   },
@@ -2966,7 +2966,7 @@
     "returnToPlayer": 96.27,
     "variance": "low",
     "active": false,
-    "launchDate": "2025-08-05T00:00:00Z",
+    "launchDate": "2025-08-06T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00604-tom-horn-gaming.png",
     "features": [
       "cluster-pays",
@@ -2982,7 +2982,7 @@
     "returnToPlayer": 91.62,
     "variance": "low",
     "active": false,
-    "launchDate": "2025-05-20T00:00:00Z",
+    "launchDate": "2025-05-21T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00607-alea.png",
     "features": [
       "anime",
@@ -3013,7 +3013,7 @@
     "returnToPlayer": 97.77,
     "variance": "medium",
     "active": true,
-    "launchDate": "2023-06-14T00:00:00Z",
+    "launchDate": "2023-06-15T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00613-alea.png",
     "features": [
       "anime"
@@ -3027,7 +3027,7 @@
     "returnToPlayer": 90.03,
     "variance": "medium",
     "active": false,
-    "launchDate": "2024-06-25T00:00:00Z",
+    "launchDate": "2024-06-26T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00616-orbital-spin.png",
     "features": []
   },
@@ -3039,7 +3039,7 @@
     "returnToPlayer": 94.09,
     "variance": "high",
     "active": false,
-    "launchDate": "2025-04-02T00:00:00Z",
+    "launchDate": "2025-04-03T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00619-push-gaming.png",
     "features": [
       "progressive",
@@ -3056,7 +3056,7 @@
     "returnToPlayer": 93.7,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-01-11T00:00:00Z",
+    "launchDate": "2022-01-12T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00622-red-tiger.png",
     "features": [
       "free-spins",
@@ -3072,7 +3072,7 @@
     "returnToPlayer": 95.26,
     "variance": "low",
     "active": true,
-    "launchDate": "2019-11-16T00:00:00Z",
+    "launchDate": "2019-11-17T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00625-softswiss.png",
     "features": [
       "adventure",
@@ -3087,7 +3087,7 @@
     "returnToPlayer": 93.7,
     "variance": "low",
     "active": false,
-    "launchDate": "2019-11-24T00:00:00Z",
+    "launchDate": "2019-11-25T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00628-greentube.png",
     "features": [
       "cluster-pays",
@@ -3117,7 +3117,7 @@
     "returnToPlayer": 95.19,
     "variance": "high",
     "active": true,
-    "launchDate": "2026-02-06T00:00:00Z",
+    "launchDate": "2026-02-07T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00634-kaleidoscope.png",
     "features": [
       "anime",
@@ -3144,7 +3144,7 @@
     "returnToPlayer": 97.25,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-10-02T00:00:00Z",
+    "launchDate": "2022-10-03T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00640-yggdrasil.png",
     "features": [
       "cluster-pays",
@@ -3160,7 +3160,7 @@
     "returnToPlayer": 96.51,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-11-26T00:00:00Z",
+    "launchDate": "2025-11-27T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00643-skywind.png",
     "features": []
   },
@@ -3186,7 +3186,7 @@
     "returnToPlayer": 97.36,
     "variance": "low",
     "active": true,
-    "launchDate": "2019-05-15T00:00:00Z",
+    "launchDate": "2019-05-16T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00649-reelplay.png",
     "features": [
       "adventure",
@@ -3203,7 +3203,7 @@
     "returnToPlayer": 95.09,
     "variance": "high",
     "active": true,
-    "launchDate": "2019-04-06T00:00:00Z",
+    "launchDate": "2019-04-07T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00652-ba-gaming.png",
     "features": [
       "classic",
@@ -3219,7 +3219,7 @@
     "returnToPlayer": 98.21,
     "variance": "low",
     "active": true,
-    "launchDate": "2025-08-31T00:00:00Z",
+    "launchDate": "2025-09-01T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00655-alea.png",
     "features": [
       "bonus-buy",
@@ -3234,7 +3234,7 @@
     "returnToPlayer": 93.75,
     "variance": "low",
     "active": true,
-    "launchDate": "2020-12-28T00:00:00Z",
+    "launchDate": "2020-12-29T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00658-thunderkick.png",
     "features": [
       "bonus-buy",
@@ -3249,7 +3249,7 @@
     "returnToPlayer": 89.44,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-10-29T00:00:00Z",
+    "launchDate": "2022-10-30T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00661-reflex-gaming.png",
     "features": [
       "free-spins"
@@ -3263,7 +3263,7 @@
     "returnToPlayer": 94.72,
     "variance": "low",
     "active": true,
-    "launchDate": "2023-01-11T00:00:00Z",
+    "launchDate": "2023-01-12T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00664-thunderkick.png",
     "features": [
       "fruit",
@@ -3327,7 +3327,7 @@
     "returnToPlayer": 91.48,
     "variance": "high",
     "active": true,
-    "launchDate": "2024-10-07T00:00:00Z",
+    "launchDate": "2024-10-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00676-tom-horn-gaming.png",
     "features": [
       "fruit"
@@ -3341,7 +3341,7 @@
     "returnToPlayer": 96.72,
     "variance": "low",
     "active": true,
-    "launchDate": "2019-08-30T00:00:00Z",
+    "launchDate": "2019-08-31T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00679-betsoft.png",
     "features": [
       "space"
@@ -3355,7 +3355,7 @@
     "returnToPlayer": 96.21,
     "variance": "high",
     "active": false,
-    "launchDate": "2024-09-23T00:00:00Z",
+    "launchDate": "2024-09-24T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00682-microgaming.png",
     "features": [
       "megaways"
@@ -3369,7 +3369,7 @@
     "returnToPlayer": 93.56,
     "variance": "high",
     "active": true,
-    "launchDate": "2019-08-11T00:00:00Z",
+    "launchDate": "2019-08-12T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00685-nolimit-city.png",
     "features": [
       "classic"
@@ -3383,7 +3383,7 @@
     "returnToPlayer": 96.04,
     "variance": "medium",
     "active": true,
-    "launchDate": "2018-08-03T00:00:00Z",
+    "launchDate": "2018-08-04T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00688-playson.png",
     "features": [
       "horror"
@@ -3397,7 +3397,7 @@
     "returnToPlayer": 95.55,
     "variance": "low",
     "active": true,
-    "launchDate": "2019-11-22T00:00:00Z",
+    "launchDate": "2019-11-23T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00691-evolution.png",
     "features": [
       "anime"
@@ -3411,7 +3411,7 @@
     "returnToPlayer": 94.89,
     "variance": "low",
     "active": true,
-    "launchDate": "2024-08-27T00:00:00Z",
+    "launchDate": "2024-08-28T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00694-softswiss.png",
     "features": [
       "mythology",
@@ -3426,7 +3426,7 @@
     "returnToPlayer": 97.96,
     "variance": "medium",
     "active": false,
-    "launchDate": "2022-10-05T00:00:00Z",
+    "launchDate": "2022-10-06T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00697-orbital-spin.png",
     "features": [
       "free-spins",
@@ -3459,7 +3459,7 @@
     "returnToPlayer": 92.55,
     "variance": "low",
     "active": true,
-    "launchDate": "2021-11-10T00:00:00Z",
+    "launchDate": "2021-11-11T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00703-big-time-gaming.png",
     "features": []
   },
@@ -3502,7 +3502,7 @@
     "returnToPlayer": 95.83,
     "variance": "high",
     "active": true,
-    "launchDate": "2024-09-27T00:00:00Z",
+    "launchDate": "2024-09-28T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00712-playn-go.png",
     "features": [
       "pirates",
@@ -3517,7 +3517,7 @@
     "returnToPlayer": 97.68,
     "variance": "medium",
     "active": false,
-    "launchDate": "2019-11-21T00:00:00Z",
+    "launchDate": "2019-11-22T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00715-greentube.png",
     "features": [
       "dragons",
@@ -3533,7 +3533,7 @@
     "returnToPlayer": 95.79,
     "variance": "medium",
     "active": true,
-    "launchDate": "2020-12-29T00:00:00Z",
+    "launchDate": "2020-12-30T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00718-greentube.png",
     "features": []
   },
@@ -3545,7 +3545,7 @@
     "returnToPlayer": 98.88,
     "variance": "high",
     "active": false,
-    "launchDate": "2023-01-21T00:00:00Z",
+    "launchDate": "2023-01-22T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00721-relax-gaming.png",
     "features": [
       "fruit",
@@ -3561,7 +3561,7 @@
     "returnToPlayer": 97.41,
     "variance": "high",
     "active": true,
-    "launchDate": "2022-09-07T00:00:00Z",
+    "launchDate": "2022-09-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00724-yggdrasil.png",
     "features": [
       "progressive",
@@ -3595,7 +3595,7 @@
     "returnToPlayer": 96.93,
     "variance": "low",
     "active": true,
-    "launchDate": "2018-12-19T00:00:00Z",
+    "launchDate": "2018-12-20T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00730-kaleidoscope.png",
     "features": [
       "free-spins",
@@ -3610,7 +3610,7 @@
     "returnToPlayer": 95.15,
     "variance": "low",
     "active": true,
-    "launchDate": "2023-07-31T00:00:00Z",
+    "launchDate": "2023-08-01T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00733-elk-studios.png",
     "features": [
       "dragons",
@@ -3640,7 +3640,7 @@
     "returnToPlayer": 96.68,
     "variance": "low",
     "active": false,
-    "launchDate": "2023-01-28T00:00:00Z",
+    "launchDate": "2023-01-29T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00739-igt.png",
     "features": [
       "sports",
@@ -3656,7 +3656,7 @@
     "returnToPlayer": 96.78,
     "variance": "high",
     "active": true,
-    "launchDate": "2023-02-27T00:00:00Z",
+    "launchDate": "2023-02-28T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00742-thunderkick.png",
     "features": [
       "space"
@@ -3670,7 +3670,7 @@
     "returnToPlayer": 93.97,
     "variance": "low",
     "active": true,
-    "launchDate": "2024-05-21T00:00:00Z",
+    "launchDate": "2024-05-22T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00745-scientific-games.png",
     "features": [
       "megaways",
@@ -3700,7 +3700,7 @@
     "returnToPlayer": 93.24,
     "variance": "medium",
     "active": false,
-    "launchDate": "2019-09-15T00:00:00Z",
+    "launchDate": "2019-09-16T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00751-push-gaming.png",
     "features": [
       "classic",
@@ -3716,7 +3716,7 @@
     "returnToPlayer": 92.99,
     "variance": "low",
     "active": true,
-    "launchDate": "2023-07-04T00:00:00Z",
+    "launchDate": "2023-07-05T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00754-relax-gaming.png",
     "features": [
       "fruit",
@@ -3731,7 +3731,7 @@
     "returnToPlayer": 92.45,
     "variance": "high",
     "active": true,
-    "launchDate": "2021-07-11T00:00:00Z",
+    "launchDate": "2021-07-12T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00757-alea.png",
     "features": [
       "bonus-buy",
@@ -3746,7 +3746,7 @@
     "returnToPlayer": 92.27,
     "variance": "medium",
     "active": true,
-    "launchDate": "2025-12-07T00:00:00Z",
+    "launchDate": "2025-12-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00760-egt.png",
     "features": [
       "sports",
@@ -3779,7 +3779,7 @@
     "returnToPlayer": 96.91,
     "variance": "medium",
     "active": true,
-    "launchDate": "2020-07-29T00:00:00Z",
+    "launchDate": "2020-07-30T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00766-scientific-games.png",
     "features": [
       "fruit",
@@ -3796,7 +3796,7 @@
     "returnToPlayer": 91.96,
     "variance": "high",
     "active": false,
-    "launchDate": "2025-08-12T00:00:00Z",
+    "launchDate": "2025-08-13T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00769-merkur.png",
     "features": []
   },
@@ -3808,7 +3808,7 @@
     "returnToPlayer": 93.62,
     "variance": "medium",
     "active": true,
-    "launchDate": "2018-07-09T00:00:00Z",
+    "launchDate": "2018-07-10T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00772-playn-go.png",
     "features": [
       "megaways",
@@ -3825,7 +3825,7 @@
     "returnToPlayer": 93.93,
     "variance": "high",
     "active": true,
-    "launchDate": "2024-07-15T00:00:00Z",
+    "launchDate": "2024-07-16T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00775-aristocrat.png",
     "features": []
   },
@@ -3837,7 +3837,7 @@
     "returnToPlayer": 93.16,
     "variance": "high",
     "active": true,
-    "launchDate": "2024-03-19T00:00:00Z",
+    "launchDate": "2024-03-20T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00778-reelplay.png",
     "features": [
       "wild-west",
@@ -3869,7 +3869,7 @@
     "returnToPlayer": 92.06,
     "variance": "high",
     "active": true,
-    "launchDate": "2025-06-21T00:00:00Z",
+    "launchDate": "2025-06-22T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00784-isoftbet.png",
     "features": [
       "wild-west",
@@ -3886,7 +3886,7 @@
     "returnToPlayer": 93.84,
     "variance": "medium",
     "active": false,
-    "launchDate": "2018-05-02T00:00:00Z",
+    "launchDate": "2018-05-03T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00787-endorphina.png",
     "features": [
       "fruit",
@@ -3930,7 +3930,7 @@
     "returnToPlayer": 94.79,
     "variance": "high",
     "active": false,
-    "launchDate": "2023-03-18T00:00:00Z",
+    "launchDate": "2023-03-19T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00796-scientific-games.png",
     "features": [
       "classic",
@@ -3946,7 +3946,7 @@
     "returnToPlayer": 97.3,
     "variance": "low",
     "active": false,
-    "launchDate": "2025-11-28T00:00:00Z",
+    "launchDate": "2025-11-29T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00799-red-tiger.png",
     "features": [
       "free-spins",
@@ -3963,7 +3963,7 @@
     "returnToPlayer": 97.62,
     "variance": "high",
     "active": true,
-    "launchDate": "2018-10-28T00:00:00Z",
+    "launchDate": "2018-10-29T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00802-booming-games.png",
     "features": [
       "dragons",
@@ -3978,7 +3978,7 @@
     "returnToPlayer": 95.36,
     "variance": "low",
     "active": true,
-    "launchDate": "2022-05-16T00:00:00Z",
+    "launchDate": "2022-05-17T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00805-yggdrasil.png",
     "features": [
       "fruit",
@@ -3994,7 +3994,7 @@
     "returnToPlayer": 94.7,
     "variance": "high",
     "active": true,
-    "launchDate": "2021-10-04T00:00:00Z",
+    "launchDate": "2021-10-05T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00808-spinomenal.png",
     "features": [
       "mythology",
@@ -4010,7 +4010,7 @@
     "returnToPlayer": 93.49,
     "variance": "low",
     "active": true,
-    "launchDate": "2024-12-14T00:00:00Z",
+    "launchDate": "2024-12-15T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00811-habanero.png",
     "features": []
   },
@@ -4039,7 +4039,7 @@
     "returnToPlayer": 98.15,
     "variance": "high",
     "active": true,
-    "launchDate": "2022-10-07T00:00:00Z",
+    "launchDate": "2022-10-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00817-pariplay.png",
     "features": [
       "mythology",
@@ -4055,7 +4055,7 @@
     "returnToPlayer": 92.66,
     "variance": "medium",
     "active": true,
-    "launchDate": "2020-12-25T00:00:00Z",
+    "launchDate": "2020-12-26T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00820-slingo-originals.png",
     "features": [
       "dragons",
@@ -4086,7 +4086,7 @@
     "returnToPlayer": 97.75,
     "variance": "low",
     "active": true,
-    "launchDate": "2019-10-17T00:00:00Z",
+    "launchDate": "2019-10-18T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00826-merkur.png",
     "features": [
       "sports"
@@ -4100,7 +4100,7 @@
     "returnToPlayer": 93.87,
     "variance": "low",
     "active": true,
-    "launchDate": "2019-07-23T00:00:00Z",
+    "launchDate": "2019-07-24T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00829-scientific-games.png",
     "features": [
       "anime",
@@ -4117,7 +4117,7 @@
     "returnToPlayer": 97.31,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-06-15T00:00:00Z",
+    "launchDate": "2022-06-16T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00832-orbital-spin.png",
     "features": [
       "wild-west",
@@ -4133,7 +4133,7 @@
     "returnToPlayer": 91.24,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-03-29T00:00:00Z",
+    "launchDate": "2022-03-30T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00835-1x2-network.png",
     "features": [
       "sports",
@@ -4150,7 +4150,7 @@
     "returnToPlayer": 92.52,
     "variance": "medium",
     "active": true,
-    "launchDate": "2019-11-30T00:00:00Z",
+    "launchDate": "2019-12-01T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00838-igt.png",
     "features": [
       "mythology",
@@ -4166,7 +4166,7 @@
     "returnToPlayer": 97.74,
     "variance": "high",
     "active": true,
-    "launchDate": "2021-03-08T00:00:00Z",
+    "launchDate": "2021-03-09T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00841-quickspin.png",
     "features": []
   },
@@ -4178,7 +4178,7 @@
     "returnToPlayer": 95.67,
     "variance": "medium",
     "active": true,
-    "launchDate": "2018-06-29T00:00:00Z",
+    "launchDate": "2018-06-30T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00844-relax-gaming.png",
     "features": [
       "bonus-buy",
@@ -4195,7 +4195,7 @@
     "returnToPlayer": 95.61,
     "variance": "low",
     "active": true,
-    "launchDate": "2023-02-17T00:00:00Z",
+    "launchDate": "2023-02-18T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00847-alea.png",
     "features": [
       "luxury",
@@ -4210,7 +4210,7 @@
     "returnToPlayer": 93.77,
     "variance": "high",
     "active": true,
-    "launchDate": "2024-10-08T00:00:00Z",
+    "launchDate": "2024-10-09T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00850-wazdan.png",
     "features": []
   },
@@ -4234,7 +4234,7 @@
     "returnToPlayer": 90.96,
     "variance": "medium",
     "active": true,
-    "launchDate": "2023-03-03T00:00:00Z",
+    "launchDate": "2023-03-04T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00856-habanero.png",
     "features": [
       "cluster-pays"
@@ -4263,7 +4263,7 @@
     "returnToPlayer": 93.89,
     "variance": "high",
     "active": true,
-    "launchDate": "2020-11-22T00:00:00Z",
+    "launchDate": "2020-11-23T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00862-pariplay.png",
     "features": [
       "free-spins",
@@ -4279,7 +4279,7 @@
     "returnToPlayer": 95.72,
     "variance": "high",
     "active": true,
-    "launchDate": "2019-02-17T00:00:00Z",
+    "launchDate": "2019-02-18T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00865-hacksaw-gaming.png",
     "features": [
       "horror",
@@ -4295,7 +4295,7 @@
     "returnToPlayer": 91.41,
     "variance": "high",
     "active": true,
-    "launchDate": "2021-05-16T00:00:00Z",
+    "launchDate": "2021-05-17T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00868-playson.png",
     "features": []
   },
@@ -4307,7 +4307,7 @@
     "returnToPlayer": 96.69,
     "variance": "low",
     "active": true,
-    "launchDate": "2020-09-10T00:00:00Z",
+    "launchDate": "2020-09-11T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00871-quickspin.png",
     "features": [
       "space"
@@ -4352,7 +4352,7 @@
     "returnToPlayer": 94.5,
     "variance": "low",
     "active": true,
-    "launchDate": "2022-11-04T00:00:00Z",
+    "launchDate": "2022-11-05T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00880-pariplay.png",
     "features": [
       "sports",
@@ -4367,7 +4367,7 @@
     "returnToPlayer": 98.48,
     "variance": "low",
     "active": true,
-    "launchDate": "2020-11-06T00:00:00Z",
+    "launchDate": "2020-11-07T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00883-pariplay.png",
     "features": []
   },
@@ -4379,7 +4379,7 @@
     "returnToPlayer": 99.19,
     "variance": "low",
     "active": true,
-    "launchDate": "2023-07-07T00:00:00Z",
+    "launchDate": "2023-07-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00886-wazdan.png",
     "features": [
       "mythology",
@@ -4396,7 +4396,7 @@
     "returnToPlayer": 97.84,
     "variance": "high",
     "active": true,
-    "launchDate": "2018-05-28T00:00:00Z",
+    "launchDate": "2018-05-29T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00889-booming-games.png",
     "features": [
       "space"
@@ -4410,7 +4410,7 @@
     "returnToPlayer": 95.74,
     "variance": "medium",
     "active": true,
-    "launchDate": "2019-01-22T00:00:00Z",
+    "launchDate": "2019-01-23T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00892-1x2-network.png",
     "features": [
       "fruit",
@@ -4441,7 +4441,7 @@
     "returnToPlayer": 97.35,
     "variance": "medium",
     "active": true,
-    "launchDate": "2018-10-20T00:00:00Z",
+    "launchDate": "2018-10-21T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00898-ba-gaming.png",
     "features": [
       "wild-west",
@@ -4456,7 +4456,7 @@
     "returnToPlayer": 93.93,
     "variance": "medium",
     "active": true,
-    "launchDate": "2021-01-18T00:00:00Z",
+    "launchDate": "2021-01-19T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00901-high-5-games.png",
     "features": [
       "mythology",
@@ -4473,7 +4473,7 @@
     "returnToPlayer": 95.1,
     "variance": "medium",
     "active": true,
-    "launchDate": "2025-11-26T00:00:00Z",
+    "launchDate": "2025-11-27T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00904-red-tiger.png",
     "features": [
       "horror"
@@ -4487,7 +4487,7 @@
     "returnToPlayer": 97.82,
     "variance": "low",
     "active": true,
-    "launchDate": "2024-09-27T00:00:00Z",
+    "launchDate": "2024-09-28T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00907-scientific-games.png",
     "features": [
       "bonus-buy",
@@ -4503,7 +4503,7 @@
     "returnToPlayer": 92.91,
     "variance": "low",
     "active": true,
-    "launchDate": "2026-03-25T00:00:00Z",
+    "launchDate": "2026-03-26T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00910-1x2-network.png",
     "features": [
       "luxury",
@@ -4532,7 +4532,7 @@
     "returnToPlayer": 90.17,
     "variance": "medium",
     "active": true,
-    "launchDate": "2024-12-30T00:00:00Z",
+    "launchDate": "2024-12-31T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00916-lightning-box.png",
     "features": [
       "sports",
@@ -4547,7 +4547,7 @@
     "returnToPlayer": 97.63,
     "variance": "high",
     "active": true,
-    "launchDate": "2020-08-13T00:00:00Z",
+    "launchDate": "2020-08-14T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00919-pragmatic-play.png",
     "features": [
       "luxury",
@@ -4580,7 +4580,7 @@
     "returnToPlayer": 94.76,
     "variance": "medium",
     "active": true,
-    "launchDate": "2023-04-29T00:00:00Z",
+    "launchDate": "2023-04-30T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00925-igt.png",
     "features": [
       "wild-west",
@@ -4597,7 +4597,7 @@
     "returnToPlayer": 98.38,
     "variance": "low",
     "active": true,
-    "launchDate": "2023-06-05T00:00:00Z",
+    "launchDate": "2023-06-06T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00928-genesis-gaming.png",
     "features": [
       "cluster-pays"
@@ -4611,7 +4611,7 @@
     "returnToPlayer": 97.42,
     "variance": "low",
     "active": true,
-    "launchDate": "2025-01-05T00:00:00Z",
+    "launchDate": "2025-01-06T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00931-softswiss.png",
     "features": [
       "classic"
@@ -4625,7 +4625,7 @@
     "returnToPlayer": 93.09,
     "variance": "low",
     "active": true,
-    "launchDate": "2024-10-09T00:00:00Z",
+    "launchDate": "2024-10-10T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00934-booming-games.png",
     "features": [
       "bonus-buy"
@@ -4639,7 +4639,7 @@
     "returnToPlayer": 94.18,
     "variance": "high",
     "active": true,
-    "launchDate": "2023-06-25T00:00:00Z",
+    "launchDate": "2023-06-26T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00937-pariplay.png",
     "features": []
   },
@@ -4651,7 +4651,7 @@
     "returnToPlayer": 91.68,
     "variance": "low",
     "active": true,
-    "launchDate": "2021-08-16T00:00:00Z",
+    "launchDate": "2021-08-17T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00940-merkur.png",
     "features": [
       "classic"
@@ -4665,7 +4665,7 @@
     "returnToPlayer": 89.39,
     "variance": "low",
     "active": false,
-    "launchDate": "2022-03-02T00:00:00Z",
+    "launchDate": "2022-03-03T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00943-igt.png",
     "features": [
       "fruit"
@@ -4679,7 +4679,7 @@
     "returnToPlayer": 94.09,
     "variance": "medium",
     "active": true,
-    "launchDate": "2024-12-07T00:00:00Z",
+    "launchDate": "2024-12-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00946-genesis-gaming.png",
     "features": [
       "anime"
@@ -4693,7 +4693,7 @@
     "returnToPlayer": 98.05,
     "variance": "low",
     "active": true,
-    "launchDate": "2021-10-14T00:00:00Z",
+    "launchDate": "2021-10-15T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00949-elk-studios.png",
     "features": [
       "sports",
@@ -4710,7 +4710,7 @@
     "returnToPlayer": 95.22,
     "variance": "medium",
     "active": true,
-    "launchDate": "2025-11-23T00:00:00Z",
+    "launchDate": "2025-11-24T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00952-pariplay.png",
     "features": [
       "anime"
@@ -4724,7 +4724,7 @@
     "returnToPlayer": 92.76,
     "variance": "low",
     "active": true,
-    "launchDate": "2025-04-16T00:00:00Z",
+    "launchDate": "2025-04-17T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00955-orbital-spin.png",
     "features": [
       "space",
@@ -4739,7 +4739,7 @@
     "returnToPlayer": 92.65,
     "variance": "medium",
     "active": true,
-    "launchDate": "2024-05-24T00:00:00Z",
+    "launchDate": "2024-05-25T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00958-hacksaw-gaming.png",
     "features": []
   },
@@ -4751,7 +4751,7 @@
     "returnToPlayer": 95.23,
     "variance": "high",
     "active": false,
-    "launchDate": "2021-11-12T00:00:00Z",
+    "launchDate": "2021-11-13T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00961-push-gaming.png",
     "features": [
       "bonus-buy"
@@ -4795,7 +4795,7 @@
     "returnToPlayer": 97.47,
     "variance": "low",
     "active": true,
-    "launchDate": "2020-01-13T00:00:00Z",
+    "launchDate": "2020-01-14T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00970-pariplay.png",
     "features": [
       "space",
@@ -4810,7 +4810,7 @@
     "returnToPlayer": 92.97,
     "variance": "low",
     "active": true,
-    "launchDate": "2022-07-29T00:00:00Z",
+    "launchDate": "2022-07-30T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00973-netent.png",
     "features": [
       "wild-west",
@@ -4827,7 +4827,7 @@
     "returnToPlayer": 95.3,
     "variance": "low",
     "active": true,
-    "launchDate": "2023-02-11T00:00:00Z",
+    "launchDate": "2023-02-12T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00976-netent.png",
     "features": [
       "progressive"
@@ -4841,7 +4841,7 @@
     "returnToPlayer": 91.09,
     "variance": "low",
     "active": true,
-    "launchDate": "2025-01-17T00:00:00Z",
+    "launchDate": "2025-01-18T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00979-slingo-originals.png",
     "features": [
       "anime",
@@ -4858,7 +4858,7 @@
     "returnToPlayer": 91.85,
     "variance": "high",
     "active": true,
-    "launchDate": "2024-12-25T00:00:00Z",
+    "launchDate": "2024-12-26T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00982-booming-games.png",
     "features": []
   },
@@ -4870,7 +4870,7 @@
     "returnToPlayer": 93.2,
     "variance": "medium",
     "active": true,
-    "launchDate": "2023-12-07T00:00:00Z",
+    "launchDate": "2023-12-08T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00985-kaleidoscope.png",
     "features": [
       "fruit",
@@ -4887,7 +4887,7 @@
     "returnToPlayer": 97.4,
     "variance": "medium",
     "active": true,
-    "launchDate": "2024-05-01T00:00:00Z",
+    "launchDate": "2024-05-02T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00988-spinomenal.png",
     "features": [
       "wild-west",
@@ -4904,7 +4904,7 @@
     "returnToPlayer": 92.62,
     "variance": "low",
     "active": true,
-    "launchDate": "2025-10-05T00:00:00Z",
+    "launchDate": "2025-10-06T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00991-greentube.png",
     "features": [
       "mythology"
@@ -4918,7 +4918,7 @@
     "returnToPlayer": 93.44,
     "variance": "high",
     "active": true,
-    "launchDate": "2019-09-15T00:00:00Z",
+    "launchDate": "2019-09-16T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00994-blueprint.png",
     "features": [
       "progressive",
@@ -4934,7 +4934,7 @@
     "returnToPlayer": 97.47,
     "variance": "medium",
     "active": true,
-    "launchDate": "2022-03-13T00:00:00Z",
+    "launchDate": "2022-03-14T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-00997-merkur.png",
     "features": []
   },
@@ -4946,7 +4946,7 @@
     "returnToPlayer": 90.49,
     "variance": "medium",
     "active": true,
-    "launchDate": "2019-03-15T00:00:00Z",
+    "launchDate": "2019-03-16T00:00:00Z",
     "thumbnail": "https://cdn.alpha.example.com/games/game-01000-mascot-gaming.png",
     "features": [
       "wild-west",
