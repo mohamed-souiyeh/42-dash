@@ -33,3 +33,4 @@ Test in developer mode
 ```bash
 npm run dev
 ```
+Keep in mind that having the backend running is necessary in order to interact with the UI properly.
