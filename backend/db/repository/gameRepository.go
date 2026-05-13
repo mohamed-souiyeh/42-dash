@@ -24,7 +24,6 @@ func NewSQLiteGameRepository(db *sql.DB) *SQLiteGameRepository {
 
 var _ GameRepository = (*SQLiteGameRepository)(nil)
 
-// UpsertGame implementation wiring the interface to the sqlc generated code
 func (r *SQLiteGameRepository) UpsertGame(ctx context.Context, arg sqlc.UpsertGameParams) (sqlc.Game, error) {
 	return r.queries.UpsertGame(ctx, arg)
 }

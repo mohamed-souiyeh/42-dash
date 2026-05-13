@@ -59,8 +59,6 @@ func (a *App) serverSetup() {
 	mux.HandleFunc("/healthz", handlers.HealthzHandler)
 	mux.HandleFunc("/ingest", a.ingestHandler.HandleTriggerIngest)
 
-	// --- 3. The Server Object (Configured Once) ---
-
 	server := &http.Server{
 		Addr:         port,
 		Handler:      mux,              // Attach your router here

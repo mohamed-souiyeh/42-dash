@@ -2,7 +2,7 @@ CREATE TABLE games (
     id TEXT PRIMARY KEY,
     name TEXT NOT NULL,
     provider TEXT NOT NULL,
-    category TEXT NOT NULL,
+    category TEXT NOT NULL CHECK (category IN ('Slots', 'Live', 'Table', 'Instant', 'Jackpot')),
     rtp REAL NOT NULL,
     variance TEXT NOT NULL CHECK (variance IN ('Low', 'Mid', 'High')),
     enabled BOOLEAN NOT NULL DEFAULT 0,
