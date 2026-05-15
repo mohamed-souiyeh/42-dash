@@ -9,6 +9,30 @@ import (
 	"context"
 )
 
+const getGameByID = `-- name: GetGameByID :one
+SELECT id, name, provider, category, rtp, variance, enabled, launch_date, tags, image_url
+FROM games
+WHERE id = ?
+`
+
+func (q *Queries) GetGameByID(ctx context.Context, id string) (Game, error) {
+	row := q.db.QueryRowContext(ctx, getGameByID, id)
+	var i Game
+	err := row.Scan(
+		&i.ID,
+		&i.Name,
+		&i.Provider,
+		&i.Category,
+		&i.Rtp,
+		&i.Variance,
+		&i.Enabled,
+		&i.LaunchDate,
+		&i.Tags,
+		&i.ImageUrl,
+	)
+	return i, err
+}
+
 const upsertGame = `-- name: UpsertGame :one
 INSERT INTO games (
     id, name, provider, category, rtp, variance, enabled, launch_date, tags, image_url

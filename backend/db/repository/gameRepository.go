@@ -8,6 +8,7 @@ import (
 
 type GameRepository interface {
 	UpsertGame(ctx context.Context, arg sqlc.UpsertGameParams) (sqlc.Game, error)
+	GetGameByID(ctx context.Context, id string) (sqlc.Game, error)
 }
 
 type SQLiteGameRepository struct {
@@ -26,4 +27,8 @@ var _ GameRepository = (*SQLiteGameRepository)(nil)
 
 func (r *SQLiteGameRepository) UpsertGame(ctx context.Context, arg sqlc.UpsertGameParams) (sqlc.Game, error) {
 	return r.queries.UpsertGame(ctx, arg)
+}
+
+func (r *SQLiteGameRepository) GetGameByID(ctx context.Context, id string) (sqlc.Game, error) {
+	return r.queries.GetGameByID(ctx, id)
 }

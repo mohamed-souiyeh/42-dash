@@ -16,3 +16,9 @@ ON CONFLICT (id) DO UPDATE SET
     tags = EXCLUDED.tags,
     image_url = EXCLUDED.image_url
 RETURNING id, name, provider, category, rtp, variance, enabled, launch_date, tags, image_url;
+
+
+-- name: GetGameByID :one
+SELECT *
+FROM games
+WHERE id = ?;

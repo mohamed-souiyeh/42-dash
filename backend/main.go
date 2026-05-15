@@ -31,6 +31,7 @@ type App struct {
 	db            *sql.DB
 	Server        *http.Server
 	ingestHandler *handlers.IngestHandler
+	gameHandlers  *handlers.GameHandlers
 }
 
 func NewApp() *App {
@@ -49,15 +50,21 @@ func NewApp() *App {
 }
 
 func (a *App) serverSetup() {
+	gameRepo := db.NewSQLiteGameRepository(a.db)
 	a.ingestHandler = &handlers.IngestHandler{
 		IngestRepo: db.NewSQLiteIngestionRepository(a.db),
-		GameRepo:   db.NewSQLiteGameRepository(a.db),
+		GameRepo:   gameRepo,
+	}
+
+	a.gameHandlers = &handlers.GameHandlers{
+		GameRepository: gameRepo,
 	}
 
 	mux := http.NewServeMux()
 
-	mux.HandleFunc("/healthz", handlers.HealthzHandler)
-	mux.HandleFunc("/ingest", a.ingestHandler.HandleTriggerIngest)
+	mux.HandleFunc("GET /healthz", handlers.HealthzHandler)
+	mux.HandleFunc("GET /ingest", a.ingestHandler.HandleTriggerIngest)
+	mux.HandleFunc("GET /api/games/{id}", a.gameHandlers.GetGame)
 
 	server := &http.Server{
 		Addr:         port,
@@ -80,6 +87,7 @@ func (a *App) serverStart() {
 		}
 	}()
 
+	// the mock server serving the dummy data
 	go func() {
 		// This serves your local "mock_data" folder on a different port
 		mockMux := http.NewServeMux()

@@ -9,6 +9,7 @@ import (
 )
 
 type Querier interface {
+	GetGameByID(ctx context.Context, id string) (Game, error)
 	// Retrieves a specific log to check if it has already succeeded.
 	GetIngestionLog(ctx context.Context, sourceUrl string) (IngestionLog, error)
 	// Inserts a new PENDING log, or resets an existing one to PENDING if it previously FAILED.
